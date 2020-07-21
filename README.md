@@ -1,7 +1,7 @@
 ```jsx
 return (
   <JoaoPauloMoraes
-    currentlyWorkingOn="A [digital platform](https://alumy.com) as FrontEnd leader"
+    currentlyWorkingOn="A digital platform (https://alumy.com) as FrontEnd leader"
     currentlyLearning={[
       'Functional Programming',
       'TypeScript',
