@@ -1,11 +1,12 @@
 ```jsx
 return (
   <JoaoPauloMoraes
-    currentlyWorkingOn="A digital platform (https://alumy.com) as FrontEnd leader"
+    currentlyWorkingOn="Eduzz, as a Front-end leader on a digital platform: https://alumy.com"
     currentlyLearning={[
       'Functional Programming',
       'TypeScript',
-      'Clojure'
+      'Clean Architecture',
+      'DDD'
     ]}
     linkedIn="https://www.linkedin.com/in/joaopaulomoraes"
     askMeAbout={[
