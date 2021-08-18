@@ -4,9 +4,9 @@ return (
     currentlyWorkingOn="Eduzz as a Front-end leader on a digital platform: https://alumy.com"
     currentlyLearning={[
       'Functional Programming',
-      'TypeScript',
+      'Hexagonal Architecture',
       'Clean Architecture',
-      'DDD'
+      'Domain-Driven Design'
     ]}
     linkedIn="https://www.linkedin.com/in/joaopaulomoraes"
     askMeAbout={[
