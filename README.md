@@ -1,7 +1,7 @@
 ```jsx
 return (
   <JoaoPauloMoraes
-    currentlyWorkingOn="Eduzz as a Front-end leader on a digital platform: https://alumy.com"
+    currentlyWorkingOn="ChatClass as Frontend leader"
     currentlyLearning={[
       'Functional Programming',
       'Hexagonal Architecture',
@@ -19,7 +19,7 @@ return (
       'I seek to improve the performance of the application so that it is better every day',
       'I\'m dedicated to always providing the best experience for the end user',
       'I worked as a mentor and project reviewer at udacity',
-      'I like to work with interface design',
+      'I like to work with UI/UX',
       'I\'m always learning'
     ]}
   />
