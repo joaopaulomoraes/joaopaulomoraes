@@ -1,7 +1,7 @@
 ```jsx
 return (
   <JoaoPauloMoraes
-    currentlyWorkingOn="ChatClass as Tech Lead Engineer"
+    currentlyWorkingOn="ChatClass as Tech Lead"
     currentlyLearning={[
       'Functional Programming',
       'Hexagonal Architecture',
