@@ -6,7 +6,9 @@ return (
       'Functional Programming',
       'Hexagonal Architecture',
       'Clean Architecture',
-      'Domain-Driven Design'
+      'Domain-Driven Design',
+      'Elixir',
+      'Regex'
     ]}
     linkedIn="https://www.linkedin.com/in/joaopaulomoraes"
     askMeAbout={[
