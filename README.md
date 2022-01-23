@@ -20,7 +20,7 @@ return (
       'I like to always follow the best practices in the development of each feature',
       'I seek to improve the performance of the application so that it is better every day',
       'I\'m dedicated to always providing the best experience for the end user',
-      'I worked as a mentor and project reviewer at udacity',
+      'I worked as a mentor and project reviewer at Udacity',
       'I like to work with UI/UX',
       'I\'m always learning'
     ]}
