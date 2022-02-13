@@ -8,7 +8,10 @@ return (
       'Clean Architecture',
       'Domain-Driven Design',
       'Elixir',
-      'Regex'
+      'Regex',
+      'Product',
+      'Business',
+      'Entrepreneurship'
     ]}
     linkedIn="https://www.linkedin.com/in/joaopaulomoraes"
     askMeAbout={[
