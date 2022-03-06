@@ -1,12 +1,13 @@
 ```json
 {
-  "currentlyWorkingOn": "ChatClass as Tech Lead and building the Natulium platform",
+  "currentlyWorkingOn": "@chatclass as Tech Lead and building the Natulium platform",
   "currentlyLearning": [
     "Functional Programming",
     "Hexagonal Architecture",
     "Clean Architecture",
     "Domain-Driven Design",
     "Elixir",
+    "Erlang",
     "Regex",
     "Product",
     "Entrepreneurship",
