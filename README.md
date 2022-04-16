@@ -10,6 +10,7 @@
     "Erlang",
     "Regex",
     "Product",
+    "Accessibility",
     "Entrepreneurship",
     "Web3"
   ],
