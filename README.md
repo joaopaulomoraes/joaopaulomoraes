@@ -12,6 +12,8 @@
     "Product",
     "Accessibility",
     "Entrepreneurship",
+    "Netflix Culture",
+    "Productivity",
     "Web3"
   ],
   "linkedIn": "https://www.linkedin.com/in/joaopaulomoraes",
