@@ -12,15 +12,14 @@
     "Product",
     "Accessibility",
     "Entrepreneurship",
-    "Netflix Culture",
-    "Productivity",
-    "Web3"
+    "Netflix Culture"
   ],
   "linkedIn": "https://www.linkedin.com/in/joaopaulomoraes",
   "askMeAbout": [
     "React",
     "Next",
-    "Functional Programming"
+    "Functional Programming",
+    "Vite"
   ],
   "additionalInformation": [
     "I like to always follow the best development practices",
