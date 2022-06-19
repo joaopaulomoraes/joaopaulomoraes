@@ -1,6 +1,6 @@
 ```json
 {
-  "currentlyWorkingOn": "ChatClass as Tech Lead and building the Natulium platform",
+  "currentlyWorkingOn": "ChatClass and building the Natulium platform",
   "currentlyLearning": [
     "Functional Programming",
     "Hexagonal Architecture",
@@ -11,8 +11,7 @@
     "Regex",
     "Product",
     "Accessibility",
-    "Entrepreneurship",
-    "Netflix Culture"
+    "Entrepreneurship"
   ],
   "linkedIn": "https://www.linkedin.com/in/joaopaulomoraes",
   "askMeAbout": [
