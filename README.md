@@ -1,6 +1,6 @@
 ```json
 {
-  "currentlyWorkingOn": "Disco and building the Natulium platform",
+  "currentlyWorkingOn": "Disco building the next generation of E-commerce and the Natulium platform",
   "currentlyLearning": [
     "Functional Programming",
     "Hexagonal Architecture",
