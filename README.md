@@ -1,7 +1,7 @@
 ```json
 {
   "currentlyWorkingOn": [
-    "Building Luca: the next generation of e-commerce for humans",
+    "Building the next generation of e-commerce for humans",
     "Building open source software"
   ],
   "currentlyLearning": [
