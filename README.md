@@ -11,14 +11,16 @@
     "Regex",
     "Product",
     "Accessibility",
-    "Entrepreneurship"
+    "Entrepreneurship",
+    "Stoicism"
   ],
   "linkedIn": "https://www.linkedin.com/in/joaopaulomoraes",
   "askMeAbout": [
-    "React",
-    "Next",
+    "Frontend",
+    "Backend",
     "Functional Programming",
-    "Vite"
+    "Software Engineering",
+    "Design"
   ],
   "additionalInformation": [
     "I like to always follow the best development practices",
